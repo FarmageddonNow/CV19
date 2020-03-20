@@ -1,0 +1,30 @@
+warning: LF will be replaced by CRLF in .ipynb_checkpoints/CV19_Analysis-checkpoint.ipynb.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in CV19_Analysis.ipynb.
+The file will have its original line endings in your working directory
+[1mdiff --git a/.ipynb_checkpoints/CV19_Analysis-checkpoint.ipynb b/.ipynb_checkpoints/CV19_Analysis-checkpoint.ipynb[m
+[1mindex 14c94f8..4db4ba1 100644[m
+[1m--- a/.ipynb_checkpoints/CV19_Analysis-checkpoint.ipynb[m
+[1m+++ b/.ipynb_checkpoints/CV19_Analysis-checkpoint.ipynb[m
+[36m@@ -2555,7 +2555,7 @@[m
+    "metadata": {},[m
+    "outputs": [],[m
+    "source": [[m
+[31m-    "# add in new graphs tracking by day since first case"[m
+[32m+[m[32m    "# TODO: add in new graphs tracking by day since first case"[m
+    ][m
+   },[m
+   {[m
+[1mdiff --git a/CV19_Analysis.ipynb b/CV19_Analysis.ipynb[m
+[1mindex 14c94f8..4db4ba1 100644[m
+[1m--- a/CV19_Analysis.ipynb[m
+[1m+++ b/CV19_Analysis.ipynb[m
+[36m@@ -2555,7 +2555,7 @@[m
+    "metadata": {},[m
+    "outputs": [],[m
+    "source": [[m
+[31m-    "# add in new graphs tracking by day since first case"[m
+[32m+[m[32m    "# TODO: add in new graphs tracking by day since first case"[m
+    ][m
+   },[m
+   {[m
