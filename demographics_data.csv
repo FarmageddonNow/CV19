@@ -1,4 +1,4 @@
-index,Population,Density_(km2),Area_(km2),Migrants_(net),MedianAge,Urban_(%),WorldShare_(%),GDP_per_capita_PPP,GNI_per_capita_PPP,passengers_per_day,CountryID,Latitude,Longitude,Last_(Celsius),Previous_(Celsius),TempRecordDate
+Country,Population,Density_(km2),Area_(km2),Migrants_(net),MedianAge,Urban_(%),WorldShare_(%),GDP_per_capita_PPP,GNI_per_capita_PPP,passengers_per_day,CountryID,Latitude,Longitude,Last_(Celsius),Previous_(Celsius),TempRecordDate
 China,1439323776,153,9388211,-348399,38,61,0.1847,16842,18170,1195024,CN,35.86166,104.195397,-5.24,0.67,15-Dec
 France,65273511,119,547557,36527,42,82,0.0084,44033,46360,178190,FR,46.227638,2.213749,7.7,9.65,15-Dec
 Iran,83992949,52,1628550,-55000,32,76,0.0108,20885,21050,41106,IR,32.427908,53.688046,6.54,11.87,15-Dec
